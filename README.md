@@ -7,8 +7,10 @@ Four sample images provided in the `./samples` folder. from the <a href="https:/
 <hr>
 
 Thresholding:
+
 <img src='./samples/pic1.png' width=500>
 
 
 Dodge and Burn:
+
 <img src='./samples/pic2.png' width=500>
